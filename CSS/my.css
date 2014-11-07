@@ -1,0 +1,47 @@
+.labelsfont{
+	font-family: 'Lato', sans-serif;
+}
+.labelsfont2{
+	font-family: 'Lato', sans-serif;
+	color: #86868D;
+}
+
+.buttonsfont{
+	font-family: 'Lato', sans-serif;
+	font-size: 8;
+}
+.center{
+	text-align: center;
+}
+
+.pad{
+	padding-top: .5em;
+	padding-bottom: .5em;
+}
+
+.padtop{
+	padding-top: .5em;
+}
+
+.padbot{
+	padding-bottom: .5em;
+}
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
